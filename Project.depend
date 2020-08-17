@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1580501834 source:c:\users\user\desktop\project\src\commands.cpp
+	"Commands.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1580496496 c:\users\user\desktop\project\include\commands.h
+	"Directories.h"
+	"FileManaging.h"
+	"Information.h"
+
+1580504665 c:\users\user\desktop\project\include\directories.h
+
+1580511758 c:\users\user\desktop\project\include\filemanaging.h
+
+1580511449 c:\users\user\desktop\project\include\information.h
+
+1580511758 source:c:\users\user\desktop\project\src\information.cpp
+	"Information.h"
+	<stdio.h>
+	<time.h>
+
+1580454250 c:\users\user\desktop\project\include\files.h
+
+1580488612 c:\users\user\desktop\project\include\managing.h
+
+1580501542 source:c:\users\user\desktop\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Commands.h"
+
+1580511458 source:c:\users\user\desktop\project\src\directories.cpp
+	"Directories.h"
+	<string.h>
+	<dirent.h>
+	<stdio.h>
+
+1580491184 source:c:\users\user\desktop\project\src\managing.cpp
+	"Managing.h"
+	<string.h>
+	<stdio.h>
+	<dirent.h>
+
+1580513187 source:c:\users\user\desktop\project\src\filemanaging.cpp
+	"FileManaging.h"
+	<string.h>
+	<stdio.h>
+	<dirent.h>
+
+1580479694 source:f:\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Commands.h"
+
+1580455098 f:\project\include\commands.h
+	"Directories.h"
+	"FileManaging.h"
+	"Information.h"
+
+1580476646 f:\project\include\directories.h
+
+1580470360 f:\project\include\filemanaging.h
+
+1580470050 f:\project\include\information.h
+
+1580476540 source:f:\project\src\commands.cpp
+	"Commands.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1580471788 source:f:\project\src\filemanaging.cpp
+	"FileManaging.h"
+	<string.h>
+	<stdio.h>
+	<dirent.h>
+
+1580470360 source:f:\project\src\information.cpp
+	"Information.h"
+	<stdio.h>
+	<time.h>
+
+1580480300 source:f:\project\src\directories.cpp
+	"Directories.h"
+	<string.h>
+	<dirent.h>
+	<stdio.h>
+
