@@ -1,6 +1,7 @@
 # Command-line
 a simple command line
            CD             Displays the name of or changes the current directory.
+	
                [.]        Displays the current directory in the specified drive.
                [..]       Specifies that you want to change to the parent directory.
                [/D]       Changes current drive in addition to changing current.
